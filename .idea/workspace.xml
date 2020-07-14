@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f5d5ac5-8204-4f37-9011-e843faa11cb8" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WareHouse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es.demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es.demo/src/main/java/com/atguigu/bean/Stu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es.demo/src/main/java/com/atguigu/reader/EsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es.demo/target/classes/com/atguigu/bean/Stu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es.demo/target/classes/com/atguigu/reader/EsReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flume-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flume-demo/src/main/java/com/atguigu/TimeStampInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hive-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hive-demo/src/main/java/com/atguigu/udf/JsonArrayToStructArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hive-demo/src/main/java/com/atguigu/udf/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hive-demo/src/main/java/com/atguigu/udtf/ExplodeJSONArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-demo/redis-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-demo/src/main/java/com/atguigu/jedisPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-demo/src/main/java/com/atguigu/jedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-demo/target/classes/META-INF/redis-demo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-demo/target/classes/com/atguigu/jedisPoolTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-demo/target/classes/com/atguigu/jedisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +21,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\IDEA\WareHouse\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -175,18 +154,34 @@
       <workItem from="1594435954125" duration="3849000" />
       <workItem from="1594636910006" duration="385000" />
       <workItem from="1594637601424" duration="1896000" />
-      <workItem from="1594724518156" duration="997000" />
+      <workItem from="1594724518156" duration="1263000" />
     </task>
+    <task id="LOCAL-00001" summary="IDEA first commit">
+      <created>1594725862141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594725862141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IDEA first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="717" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1593428791870">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="717" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1593428791870" />
+    <state x="463" y="0" key="CommitChangelistDialog2" timestamp="1594725856404">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="463" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1594725856404" />
     <state x="312" y="151" key="FileChooserDialogImpl" timestamp="1594725570611">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
