@@ -14,7 +14,7 @@ public class jedisTest {
         jedis.set("salary","8000");
 
 //        System.out.println(ping);
-
+        System.out.println("hahahah");
         jedis.close();
     }
 }
