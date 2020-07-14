@@ -1,0 +1,14 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="com.atguigu.bigdata.spark.core.req.controller.WordCountController" />
+          <option value="com.atguigu.summer.framework" />
+          <option value="com.atguigu.summer.framework.core.TApplication" />
+        </array>
+      </option>
+      <option name="TYPE_ANNOTATION_LOCAL_DEFINITION" value="true" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>

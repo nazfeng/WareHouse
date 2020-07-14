@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f5d5ac5-8204-4f37-9011-e843faa11cb8" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WareHouse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es.demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es.demo/src/main/java/com/atguigu/bean/Stu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es.demo/src/main/java/com/atguigu/reader/EsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es.demo/target/classes/com/atguigu/bean/Stu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es.demo/target/classes/com/atguigu/reader/EsReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flume-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flume-demo/src/main/java/com/atguigu/TimeStampInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-demo/src/main/java/com/atguigu/udf/JsonArrayToStructArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-demo/src/main/java/com/atguigu/udf/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive-demo/src/main/java/com/atguigu/udtf/ExplodeJSONArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/redis-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/src/main/java/com/atguigu/jedisPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/src/main/java/com/atguigu/jedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/target/classes/META-INF/redis-demo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/target/classes/com/atguigu/jedisPoolTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/target/classes/com/atguigu/jedisTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven" />
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dkyGJKO7ciZDT34JyB6l68mn7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\WareHouse\es.demo\src\main\java\com\atguigu\bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\WareHouse\hive-demo\src\main\java\com\atguigu\udtf" />
+      <recent name="F:\IDEA\WareHouse\flume-demo\src\main\java" />
+      <recent name="F:\IDEA\WareHouse" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.jedisPoolTest">
+    <configuration name="EsReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.reader.EsReader" />
+      <module name="es.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jedisPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.jedisPoolTest" />
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jedisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.jedisTest" />
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.jedisPoolTest" />
+        <item itemvalue="Application.jedisTest" />
+        <item itemvalue="Application.EsReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f5d5ac5-8204-4f37-9011-e843faa11cb8" name="默认更改列表" comment="" />
+      <created>1592983288956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592983288956</updated>
+      <workItem from="1592983291090" duration="1245000" />
+      <workItem from="1593050406695" duration="1925000" />
+      <workItem from="1593080894404" duration="1201000" />
+      <workItem from="1593304707897" duration="1729000" />
+      <workItem from="1593309364279" duration="1984000" />
+      <workItem from="1593424432284" duration="6128000" />
+      <workItem from="1594435954125" duration="3849000" />
+      <workItem from="1594636910006" duration="385000" />
+      <workItem from="1594637601424" duration="1896000" />
+      <workItem from="1594724518156" duration="997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1593428791870">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="717" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1593428791870" />
+    <state x="312" y="151" key="FileChooserDialogImpl" timestamp="1594725570611">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="312" y="151" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1594725570611" />
+    <state width="1864" height="239" key="GridCell.Tab.0.bottom" timestamp="1594639553009">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1594639553009" />
+    <state width="1864" height="239" key="GridCell.Tab.0.center" timestamp="1594639553009">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="239" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1594639553009" />
+    <state width="1864" height="239" key="GridCell.Tab.0.left" timestamp="1594639553009">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="239" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1594639553009" />
+    <state width="1864" height="239" key="GridCell.Tab.0.right" timestamp="1594639553009">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="239" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1594639553009" />
+    <state x="373" y="84" key="Maven.ArtifactSearchDialog" timestamp="1593081090781">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="373" y="84" key="Maven.ArtifactSearchDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1593081090781" />
+    <state x="329" y="56" key="SettingsEditor" timestamp="1594725491981">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="329" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1594725491981" />
+    <state x="151" y="26" key="new project wizard" timestamp="1594637747860">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="151" y="26" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1594637747860" />
+  </component>
+</project>
